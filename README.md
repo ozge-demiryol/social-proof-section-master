@@ -44,11 +44,10 @@ Users should be able to:
 
 - [Material-UI rating component](https://material-ui.com/components/rating/) - I got rating component from Material-UI.
 - [W3 Schools](https://www.w3schools.com/) - This is one of sources I use frequently for CSS properties.
-- [Stack overflow](https://www.stackoverflow.com) 
 - [Deploying a React app in GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/ozge-demiryol)
+- Website - [Özge Demiryol](https://github.com/ozge-demiryol)
 
