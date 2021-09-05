@@ -52,7 +52,7 @@ ReactDOM.render(
     </div>
     <div class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" rel="noreferrer" target="_blank"
-      > Frontend Mentor </a>. Coded by <a href="https://github.com/ozge-demiryol" rel="noreferrer" target="_blank">Your Name Here</a>.
+      > Frontend Mentor </a>. Coded by <a href="https://github.com/ozge-demiryol" rel="noreferrer" target="_blank">Özge Demiryol</a>.
     </div>
   </div>,
   document.getElementById('root')
