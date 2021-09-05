@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-proof-section-with-reactjs-and-materialui-WAkjZvBKp)
+- Live Site URL: (https://ozge-demiryol.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -38,13 +38,13 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - [React](https://reactjs.org/) - JS library
-- [Material-UI](https://material-ui.com) - For components
+- [Material-UI](https://material-ui.com) - For 5 star component
 
 ### Useful resources
 
 - [Material-UI rating component](https://material-ui.com/components/rating/) - I got rating component from Material-UI.
 - [W3 Schools](https://www.w3schools.com/) - This is one of sources I use frequently for CSS properties.
-- [Deploying a React app in GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+- [Deploying a React app in GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) I deploy my React apps by following these instructions. I highly reccomend this source for React apps, it's pretty helpful.
 
 
 ## Author
